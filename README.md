@@ -11,7 +11,9 @@ I will be using jetson nano as the compute module for this project.We will also 
 
 We have to setup upto 2 GPIO pins for basic demonstration of this project. Go to this link:https://www.youtube.com/watch?v=kVUNpyaHCc4 on how to initially setup your Jetson Nano GPIO pins.
 
-# Setting up Whatsapp Twillo account
+## Setting up Whatsapp Twillo account
+Once you are all done and familiar with your GPIO pins ,We now will setup our whatsapp twillo account.Go to their website(follow this link:https://www.youtube.com/watch?v=O2PB6o2E8aA) and make a free account on twillo.You will get 15$ free cradit which is more then enough for implementation of our project.
+
 
 
 
