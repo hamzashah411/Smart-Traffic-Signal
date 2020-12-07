@@ -7,7 +7,7 @@ I propose a solution that would help preventing such accidents by cautioning hum
 
 I will be using jetson nano as the compute module for this project.We will also utilize its GPIO pins to turn a set of 2 relays on and off for the traffic light red and green.
 
-# Setting up GPIO pins
+## Setting up GPIO pins
 
 We have to setup upto 2 GPIO pins for basic demonstration of this project. Go to this link:https://www.youtube.com/watch?v=kVUNpyaHCc4 on how to initially setup your Jetson Nano GPIO pins.
 
