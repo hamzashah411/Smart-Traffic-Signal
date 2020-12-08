@@ -14,7 +14,8 @@ We have to setup upto 2 GPIO pins for basic demonstration of this project. Go to
 ## Setting up Relay module
 Once you are all done and familiar with your GPIO pins it now time to make physical connestions.
 ![relay](https://user-images.githubusercontent.com/45399315/101406710-df03c100-38ea-11eb-91cb-0f9157cffcb9.jpg)
-The above image shoes the relay board which is going to be used in our project.
+ 
+ The above image shoes the relay board which is going to be used in our project.
 Connections are explained is the vedio below.
 
 
